@@ -112,7 +112,4 @@
       <path value="$PROJECT_DIR$/evadus-social-master/vendor/sebastian/global-state" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
-    <option name="suggestChangeDefaultLanguageLevel" value="false" />
-  </component>
 </project>
