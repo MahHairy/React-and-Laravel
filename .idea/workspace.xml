@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0266d753-aa4a-4ccf-99cd-c408f21c8ca6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/react-laravel-master/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/composer.json" afterDir="false" />
-    </list>
+    <list default="true" id="0266d753-aa4a-4ccf-99cd-c408f21c8ca6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
