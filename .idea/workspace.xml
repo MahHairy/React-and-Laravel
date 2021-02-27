@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0266d753-aa4a-4ccf-99cd-c408f21c8ca6" name="Default Changelist" comment="" />
+    <list default="true" id="0266d753-aa4a-4ccf-99cd-c408f21c8ca6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/bootstrap/cache/packages.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/bootstrap/cache/packages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/storage/logs/laravel.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-laravel-master/vendor/composer/platform_check.php" beforeDir="false" afterPath="$PROJECT_DIR$/react-laravel-master/vendor/composer/platform_check.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,5 +183,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
