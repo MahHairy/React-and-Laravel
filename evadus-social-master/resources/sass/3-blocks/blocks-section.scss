@@ -1,0 +1,122 @@
+.block-section {
+  padding: 10px 20px;
+  .block-title {
+    color: $color-2;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+  a {
+    position: relative;
+  }
+  #collectionsBlocks {
+    width: 100%;
+    .collection-item {
+      margin-bottom: 20px;
+      .content-item {
+        color: #ffffff;
+        overflow: hidden;
+        position: inherit;
+        min-height: 200px;
+        padding: 10px 10px;
+        border-radius: 3px;
+        background-size: cover !important;
+        .header-collection-item {
+          .user-profile-img {
+            width: 30px;
+            height: 30px;
+            overflow: hidden;
+            border-radius: 50%;
+            border: solid 2px #ffffff;
+            img {
+              width: 100%;
+            }
+          }
+        }
+        .footer-collection-item {
+          left: 0;
+          right: 0;
+          bottom: -15%;
+          position: absolute;
+          transition-duration: 0.5s;
+          background: $linear-gradient-opacity;
+          .footer-content-item {
+            padding: 10px;
+            h4 {
+              font-weight: 500;
+              margin-bottom: 7px;
+            }
+            p {
+              overflow: hidden;
+              max-height: 64px;
+              line-height: 16px;
+              font-size: 0.8em;
+            }
+          }
+          &:hover {
+            bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  #userSuggested {
+    .user-item {
+      width: 100%;
+      display: block;
+      padding: 15px 10px;
+      border-radius: 3px;
+      &:hover {
+        background: #f8f8f8;
+        transition-duration: 0.5s;
+      }
+      .user-profile {
+        width: 34px;
+        height: 34px;
+        overflow: hidden;
+        margin-right: 7px;
+        border-radius: 50%;
+        display: inline-block;
+        a {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+    .user-info {
+      display: inline-block;
+      h3 {
+        font-weight: 500;
+        font-size: 1.0em;
+        a {
+          color: $color-2;
+        }
+        span {
+          color: $color-3;
+          font-weight: 400;
+          font-size: 0.8em;
+          margin-left: 5px;
+        }
+      }
+      .follow-btn {
+        color: $color-1;
+        cursor: pointer;
+        margin-top: 5px;
+        background: none;
+        padding: 7px 20px;
+        font-size: 0.813em;
+        border-radius: 50px;
+        border: solid 1px $color-1;
+        &:hover {
+          color: #ffffff;
+          transition-duration: 0.5s;
+          background: $linear-gradient;
+        }
+      }
+      .active-follow {
+        color: #ffffff;
+        background: $linear-gradient;
+      }
+    }
+  }
+}
