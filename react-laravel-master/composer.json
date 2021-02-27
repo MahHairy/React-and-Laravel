@@ -15,9 +15,7 @@
         "intervention/image": "^2.5.1",
         "laravel/framework": "^8.29",
         "laravel/tinker": "^2.6",
-        "laravel/ui": "^3.2",
-        "rap2hpoutre/laravel-log-viewer": "^1.4",
-        "tegimus/php-izitoast": "^1.0"
+        "laravel/ui": "^3.2"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.6",
