@@ -8,7 +8,7 @@ Bunch of projects implementing React as front end, Laravel as back end.
 - create schema/database on MySQL Workbench with same name as the value in *DB_DATABASE* from *.env.example* file 
 - type command lines in terminal of IDE
 ```
-  - cd *root directory*
+  - cd evadus-social-master OR cd react-laravel-master (up to you)
   - copy .env.example .env
   - composer install
   - php artisan key:generate
