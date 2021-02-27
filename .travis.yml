@@ -1,11 +1,12 @@
 language: php
 php:
+  - 5.6
   - 7.3
   - 7.4
   - 8.0
 os: linux
 before_script: 
-  - cd react-laravel-master
+  - cd evadus-social-master
   - cp .env.example .env
   - composer update
   - composer install --no-interaction
@@ -13,7 +14,7 @@ before_script:
   - php artisan migrate
   #- php artisan serve
 before_install:
-  - mysql -e 'CREATE DATABASE idk;'
+  - mysql -e 'CREATE DATABASE evadus;'
 script:
   - vendor/bin/phpunit
 services:
